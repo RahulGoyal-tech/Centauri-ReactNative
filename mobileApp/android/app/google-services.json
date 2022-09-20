@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855425588788",
+    "project_id": "tripperz-48a5f",
+    "storage_bucket": "tripperz-48a5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855425588788:android:aa977bb3ad6332c4a9f461",
+        "android_client_info": {
+          "package_name": "com.mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855425588788-kddd83i8busj7v13kd374gavlklr73ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHGQn9r0kV1NCydw3pOmizs-USMURponQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855425588788-kddd83i8busj7v13kd374gavlklr73ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
