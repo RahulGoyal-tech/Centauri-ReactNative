@@ -1,1 +1,1 @@
-"# Centauri-ReactNative" 
+# Centauri-ReactNative
